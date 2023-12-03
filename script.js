@@ -1,1 +1,1 @@
-let array = []
+let array = [{name: "Hegel"}]
